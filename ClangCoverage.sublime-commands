@@ -1,0 +1,14 @@
+[
+	{ 
+		"caption": "Clang Coverage: Load JSON", 
+		"command": "load_coverage",
+		"args": { "show": true }
+	},
+
+	{ 
+		"caption": "Clang Coverage: Hide Coverage", 
+		"command": "load_coverage",
+		"args": { "show": false }
+	},
+
+]
